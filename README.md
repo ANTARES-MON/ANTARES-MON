@@ -22,7 +22,7 @@
   <!-- Adjust these two numbers to move the Skills title -->
   <!-- Bigger LEFT number  → moves RIGHT -->
   <!-- Bigger RIGHT number → moves LEFT  -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="140" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="340" align="left"/>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="right"/>
   <!-- ↑ Change the two width="..." numbers above -->
   
