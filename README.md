@@ -13,7 +13,7 @@
   <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
   <br/><br/>
   <!-- Centered Skills Title -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="300" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="1000" align="left"/>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="right"/>
   <img src="./title-skills.svg" alt="Skills" width="380"/>
   <br clear="both"/>
