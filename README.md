@@ -82,21 +82,18 @@
 <br/><br/>
 
 <!-- Connect Section -->
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="90">
-  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" alt="mascot"/>
-</td>
-<td align="center">
+<!-- Connect Section -->
+<div align="center">
+  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='1'%3E%3C/svg%3E" width="90" align="right"/>
+
   <img src="./title-connect.svg" alt="Connect" width="380"/>
   <br/><br/>
   <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anshadra7@gmail.com"><img src="./connect-email.svg" width="130" alt="Email"/></a>
-</td>
-<td width="200">&nbsp;</td>
-</tr>
-</table>
+  <br clear="both"/>
+</div>
 
 <br/><br/><br/>
 
