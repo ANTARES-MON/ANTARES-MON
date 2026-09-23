@@ -1,8 +1,11 @@
 <div align="center"> 
   <br/>
   <!-- Bigger ANTARES Title Banner with Right GIF Inline -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='1'%3E%3C/svg%3E" width="40" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="right"/>
   <img src="./title-antares.svg" width="680" alt="ANTARES"/>
   <img src="./5ZNMAVXZTC6GEZRPGNNFJ4CMRTH4DY5U.gif" width="95" alt="GIF"/>
+  <br clear="both"/>
 </div> 
 <br/>
 
@@ -10,7 +13,10 @@
   <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
   <br/><br/>
   <!-- Centered Skills Title -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="right"/>
   <img src="./title-skills.svg" alt="Skills" width="380"/>
+  <br clear="both"/>
   <br/><br/>
 </div>
 
@@ -81,8 +87,6 @@
 
 <br/><br/>
 
-<!-- Connect Section -->
-<!-- Connect Section -->
 <!-- Connect Section -->
 <div align="center">
   <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="80" align="left"/>
