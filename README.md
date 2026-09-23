@@ -84,7 +84,7 @@
 <!-- Connect Section -->
 <div align="center"> 
   <!-- Left Character GIF -->
-  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="80" align="left"/> 
+  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="40" align="left"/> 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='110' height='1'%3E%3C/svg%3E" width="110" align="right"/>
   
   <!-- Perfectly Centered Connect Title & Buttons -->
