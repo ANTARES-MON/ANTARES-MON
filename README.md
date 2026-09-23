@@ -2,7 +2,7 @@
 
 <img src="./5ZNMAVXZTC6GEZRPGNNFJ4CMRTH4DY5U.gif" width="110" align="right"/>
 
-$$\Huge{\color[HTML]{C4161C}{\textbf{ANTARES}}}$$
+$$\Huge{\textcolor{#C4161C}{\textbf{ANTARES}}}$$
 
 </div>
 
@@ -31,11 +31,11 @@ $$\Huge{\color[HTML]{C4161C}{\textbf{ANTARES}}}$$
 
 <div align="center">
 
-<img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" align="right"/>
+<img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" align="left"/>
 
 <img src="./title-connect.png" alt="Connect" width="220"/>
 
-<br clear="right"/>
+<br clear="left"/>
 <br/><br/>
 
 <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.png" width="200" alt="Twitter"/></a>
