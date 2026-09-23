@@ -1,8 +1,8 @@
 <div align="center"> 
   <br/>
   <!-- Bigger ANTARES Title Banner with Right GIF Inline -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="200" align="left"/>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width=200" align="right"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="500" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width=500" align="right"/>
   <img src="./title-antares.svg" width="680" alt="ANTARES"/>
   <img src="./5ZNMAVXZTC6GEZRPGNNFJ4CMRTH4DY5U.gif" width="95" alt="GIF"/>
   <br clear="both"/>
