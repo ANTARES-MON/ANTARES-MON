@@ -82,7 +82,7 @@
 <br/><br/>
 
 <!-- Connect Section -->
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="90">
   <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" alt="mascot"/>
