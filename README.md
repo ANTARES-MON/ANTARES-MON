@@ -1,8 +1,13 @@
 <div align="center"> 
   <br/>
-  <!-- Bigger ANTARES Title Banner with Right GIF Inline -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="0" align="left"/>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="400" align="right"/>
+  <!-- ====================== ANTARES TITLE ====================== -->
+  <!-- Adjust these two numbers to move the ANTARES title + GIF -->
+  <!-- Bigger LEFT number  → moves RIGHT -->
+  <!-- Bigger RIGHT number → moves LEFT  -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="120" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="40" align="right"/>
+  <!-- ↑ Change the two width="..." numbers above -->
+  
   <img src="./title-antares.svg" width="680" alt="ANTARES"/>
   <img src="./5ZNMAVXZTC6GEZRPGNNFJ4CMRTH4DY5U.gif" width="95" alt="GIF"/>
   <br clear="both"/>
@@ -12,9 +17,15 @@
 <div align="center"> 
   <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
   <br/><br/>
-  <!-- Centered Skills Title -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="5000" align="left"/>
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="5000" align="right"/>
+  
+  <!-- ====================== SKILLS TITLE ====================== -->
+  <!-- Adjust these two numbers to move the Skills title -->
+  <!-- Bigger LEFT number  → moves RIGHT -->
+  <!-- Bigger RIGHT number → moves LEFT  -->
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="140" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='1'%3E%3C/svg%3E" width="40" align="right"/>
+  <!-- ↑ Change the two width="..." numbers above -->
+  
   <img src="./title-skills.svg" alt="Skills" width="380"/>
   <br clear="both"/>
   <br/><br/>
@@ -84,14 +95,12 @@
   </div>
   <br clear="right"/> 
 </div>
-
 <br/><br/>
 
 <!-- Connect Section -->
 <div align="center">
   <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="80" align="left"/>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='90' height='1'%3E%3C/svg%3E" width="90" align="right"/>
-
   <img src="./title-connect.svg" alt="Connect" width="380"/>
   <br/><br/>
   <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a>
@@ -99,9 +108,7 @@
   <a href="mailto:anshadra7@gmail.com"><img src="./connect-email.svg" width="130" alt="Email"/></a>
   <br clear="both"/>
 </div>
-
 <br/><br/><br/>
-
 <div align="center">
   救われたいなら、自分を信じろ。自分を信じる者は、必ず救われる。
 </div>
