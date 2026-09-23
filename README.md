@@ -97,18 +97,6 @@
 <td width="200">&nbsp;</td>
 </tr>
 </table>
-  <!-- Left Character GIF -->
-  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="90" align="left"/> 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='1'%3E%3C/svg%3E" align="right"/>
-  
-  <!-- Perfectly Centered Connect Title & Buttons -->
-  <img src="./title-connect.svg" alt="Connect" width="380"/>
-  <br/><br/>
-  <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anshadra7@gmail.com"><img src="./connect-email.svg" width="130" alt="Email"/></a>
-  <br clear="both"/>
-</div>
 
 <br/><br/><br/>
 
