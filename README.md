@@ -4,12 +4,18 @@
 </div> 
 <br/>
 
-<div align="center"> 
-  <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
-  <br/><br/>
-  <img src="./title-skills.svg" alt="Skills" width="380"/>
-  <br/><br/>
-</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=C4161C" valign="middle" />
+  <img src="https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=C4161C" valign="middle" />
+  &nbsp;&nbsp;
+  <img src="./2K6JGXP757OI3SLNP5F4HS4YQYYG7VON.gif" width="40" valign="middle" />
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=C4161C" />
+  <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=C4161C" />
+  <img src="https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=C4161C" />
+  <img src="https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=C4161C" />
+  <br/>
+  </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=C4161C" />
