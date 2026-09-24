@@ -63,7 +63,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="./gemini-svg-5.svg" alt="Connect" width="140"/>
+  <img src="./gemini-svg-3.svg" alt="Connect" width="140"/>
   <br/><br/>
   <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
