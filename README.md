@@ -1,13 +1,13 @@
 <div align="center">
   <br/>
-  <img src="./title-antares.svg" width="680" alt="ANTARES"/>
-</div> 
+  <img src="./assets/title.svg" width="680" alt="ANTARES"/>
+</div>
 <br/>
 
-<div align="center"> 
-  <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
+<div align="center">
+  <img src="./assets/divider.gif" width="150" alt="divider"/>
   <br/><br/>
-  <img src="./title-skills.svg" alt="Skills" width="380"/>
+  <img src="./assets/title-skills.svg" alt="Skills" width="380"/>
   <br/><br/>
 </div>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=C4161C" valign="middle" />
   <img src="https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=C4161C" valign="middle" />
   &nbsp;&nbsp;
-  <img src="./2K6JGXP757OI3SLNP5F4HS4YQYYG7VON.gif" width="40" valign="middle" />
+  <img src="./assets/icon-spark.gif" width="40" valign="middle" />
   <br/>
 
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=C4161C" />
@@ -73,15 +73,14 @@
 <br/><br/>
 
 <div align="center">
-  <img src="./HTKYUX5KZ4FGTLZR5ZGTIEBMAVCFLCOP.gif" width="40" valign="middle"/>
+  <img src="./assets/icon-connect.gif" width="40" valign="middle"/>
   &nbsp;&nbsp;
-  <img src="./gemini-svg-3.svg" alt="Connect" width="170" valign="middle"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/connect-title.svg" alt="Connect" width="170" valign="middle"/>
   <br/><br/>
 
-  <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="./assets/social-twitter.svg" width="130" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:anshadra7@gmail.com"><img src="./connect-email.svg" width="130" alt="Email"/></a>
+  <a href="mailto:anshadra7@gmail.com"><img src="./assets/social-email.svg" width="130" alt="Email"/></a>
 </div>
 <br/><br/><br/>
 

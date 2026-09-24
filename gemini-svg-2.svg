@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="240" height="70" viewBox="0 0 240 70">
-  <rect width="240" height="70" rx="35" fill="#0D0D0D" stroke="#1F1F1F" stroke-width="2"/>
-  <g transform="translate(45, 23)">
-    <path fill="#FFFFFF" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-  </g>
-  <text x="130" y="43" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="18" letter-spacing="2" text-anchor="middle">EMAIL</text>
-</svg>
