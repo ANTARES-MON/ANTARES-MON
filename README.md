@@ -4,28 +4,27 @@
 </div> 
 <br/>
 
+<div align="center"> 
+  <img src="./SXJLB45FJBGUPTUDMDM33ZYEIXJTELYX.gif" width="150" alt="divider"/>
+  <br/><br/>
+  <img src="./title-skills.svg" alt="Skills" width="380"/>
+  <br/><br/>
+</div>
+
 <div align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='1'%3E%3C/svg%3E" width="48" valign="middle"/>
   <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=C4161C" valign="middle" />
   <img src="https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=C4161C" valign="middle" />
   &nbsp;&nbsp;
   <img src="./2K6JGXP757OI3SLNP5F4HS4YQYYG7VON.gif" width="40" valign="middle" />
   <br/>
-  <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=C4161C" />
-  <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=C4161C" />
-  <img src="https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=C4161C" />
-  <img src="https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=C4161C" />
-  <br/>
-  </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=C4161C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=C4161C" />
-  <br/>
   <img src="https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Vue.js-101010?style=for-the-badge&logo=vuedotjs&logoColor=C4161C" />
@@ -33,6 +32,7 @@
   <img src="https://img.shields.io/badge/Express-101010?style=for-the-badge&logo=express&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Laravel-101010?style=for-the-badge&logo=laravel&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/TailwindCSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=C4161C" />
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Redis-101010?style=for-the-badge&logo=redis&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Kubernetes-101010?style=for-the-badge&logo=kubernetes&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Ansible-101010?style=for-the-badge&logo=ansible&logoColor=C4161C" />
@@ -51,6 +52,7 @@
   <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/Kali_Linux-101010?style=for-the-badge&logo=kalilinux&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Nmap-101010?style=for-the-badge&logo=nmap&logoColor=C4161C" />
@@ -58,11 +60,13 @@
   <img src="https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/OWASP-101010?style=for-the-badge&logo=owasp&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/HackTheBox-101010?style=for-the-badge&logo=hackthebox&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/TryHackMe-101010?style=for-the-badge&logo=tryhackme&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=postman&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=C4161C" />
   <br/>
+
   <img src="https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=C4161C" />
   <img src="https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=C4161C" />
 </div>
