@@ -1,15 +1,14 @@
 <div align="center"> 
   <br/>
   <!-- ====================== ANTARES TITLE ====================== -->
-  <!-- Adjust these two numbers to move the ANTARES title + GIF -->
+  <!-- Adjust these two numbers to move the ANTARES title -->
   <!-- Bigger LEFT number  → moves RIGHT -->
   <!-- Bigger RIGHT number → moves LEFT  -->
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="420" align="left"/>
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="40" align="left"/>
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='1'%3E%3C/svg%3E" width="40" align="right"/>
   <!-- ↑ Change the two width="..." numbers above -->
   
   <img src="./title-antares.svg" width="680" alt="ANTARES"/>
-  <img src="./5ZNMAVXZTC6GEZRPGNNFJ4CMRTH4DY5U.gif" width="95" alt="GIF"/>
   <br clear="both"/>
 </div> 
 <br/>
