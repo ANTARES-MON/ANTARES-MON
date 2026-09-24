@@ -67,7 +67,7 @@
 
   <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='1'%3E%3C/svg%3E" width="80" align="right"/>
 
-  <img src="./title-connect.svg" alt="Connect" width="140"/>
+  <img src="./gemini-svg-3.svg" alt="Connect" width="140"/>
   <br/><br/>
 
   <a href="https://twitter.com/yourhandle"><img src="./connect-twitter.svg" width="130" alt="Twitter"/></a>
