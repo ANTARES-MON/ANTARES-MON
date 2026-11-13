@@ -78,7 +78,7 @@
   <img src="./assets/connect-title.svg" alt="Connect" width="170" valign="middle"/>
   <br/><br/>
 
-  <a href="https://twitter.com/anoxalNe"><img src="./assets/social-twitter.svg" width="130" alt="Twitter"/></a>
+  <a href="https://twitter.com/anoxale"><img src="./assets/social-twitter.svg" width="130" alt="Twitter"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anshadra7@gmail.com"><img src="./assets/social-email.svg" width="130" alt="Email"/></a>
 </div>
